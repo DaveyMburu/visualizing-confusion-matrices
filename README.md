@@ -4,8 +4,6 @@
 
 In this lab, you'll build upon the previous lesson on confusion matrices and visualize a confusion matrix using `matplotlib`. 
 
-# CHeck the index.ipynb file for my workings
-
 ## Objectives
 
 In this lab you will:  
@@ -13,6 +11,8 @@ In this lab you will:
 - Create a confusion matrix from scratch 
 - Create a confusion matrix using scikit-learn 
 - Craft functions that visualize confusion matrices 
+
+# Check the index.ipynb file for my workings
 
 ## Confusion matrices
 
